@@ -1,0 +1,7 @@
+interface:
+  display_name: "游戏 UI 概念图"
+  short_description: "根据游戏 UI 需求和参考图生成概念图与无字素材图。"
+  default_prompt: "使用 $game-ui-concept-pack，根据我提供的游戏 UI 需求和参考图，生成一张带文字与交互信息的概念图，以及一张对应的无字纯美术素材图。"
+
+policy:
+  allow_implicit_invocation: true

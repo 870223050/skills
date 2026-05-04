@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot TSCN 场景规则"
+  short_description: "Godot .tscn 界面场景布局规范与手动调整友好约束"
+  default_prompt: "使用 $godot-tscn-ui-rules 创建或修改 Godot `.tscn` UI 场景，并遵守手动调整友好的布局限制。"

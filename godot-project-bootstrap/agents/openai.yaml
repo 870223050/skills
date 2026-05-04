@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot 项目脚手架"
+  short_description: "规划 Godot 项目结构与 Codex 协作约束。"
+  default_prompt: "使用 $godot-project-bootstrap，帮我规划稳定的 Godot 4 项目结构、功能边界和 Codex 协作规则。"

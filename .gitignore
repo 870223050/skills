@@ -1,0 +1,5 @@
+/.system/
+/codex-primary-runtime/
+**/__pycache__/
+Thumbs.db
+.DS_Store

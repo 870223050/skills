@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目骨架生成"
+  short_description: "从需求文档生成游戏项目骨架、UI 场景与逻辑接口骨架"
+  default_prompt: "使用 -skeleton-generator，根据这份需求分析文档生成项目目录、UI 场景和逻辑接口骨架。"
