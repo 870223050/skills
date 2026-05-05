@@ -25,6 +25,10 @@
 
 根据需求分析文档生成项目目录结构、UI 场景、UI 场景脚本，以及带简短注释的游戏逻辑接口骨架。
 
+### `push-luckmonster`
+
+为当前 Godot 项目补齐 README、初始化或校验 Git、绑定 `luckMonster` 远端并用中文提交推送。
+
 ## 目录说明
 
 ```text
@@ -33,6 +37,7 @@ skills/
   godot-project-bootstrap/
   godot-tscn-ui-rules/
   project-skeleton-generator/
+  push-luckmonster/
 ```
 
 ## 使用方式
@@ -44,6 +49,10 @@ skills/
 
 ```text
 使用 $project-skeleton-generator，根据需求分析文档生成项目目录、UI 场景和逻辑接口骨架。
+```
+
+```text
+使用 $push-luckmonster，把当前项目整理后提交到 luckMonster 远端仓库。
 ```
 
 ## 维护约定

@@ -1,0 +1,4 @@
+interface:
+  display_name: "推送 LuckMonster"
+  short_description: "为 luckMonster 项目整理 README、初始化 Git 并用中文提交推送。"
+  default_prompt: "使用 $push-luckmonster，为当前 Godot 项目补齐 README、初始化仓库并推送到 luckMonster 远端。"
